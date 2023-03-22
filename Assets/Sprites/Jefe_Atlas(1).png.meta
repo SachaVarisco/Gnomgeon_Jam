@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: ff8effa934495c54e9ec63ee7919cb39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 677
+        width: 104
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52beadd0579917849a0b2fac40600f72
+      internalID: -669725107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 678
+        width: 105
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e1677540088a4449da572a33181ce2
+      internalID: 805977197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 678
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f335018809f65af43b6ef451eeb4d756
+      internalID: -242631030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 678
+        width: 105
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc61c71dfa7354ebcb22f339815fb8
+      internalID: 1069375475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 677
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176da6cb2e3a4e4aa2dd0a4e96fdee0
+      internalID: 1748087654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 517
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fca7fc96f7270448a52fda5322f9d2
+      internalID: 393917678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 518
+        width: 92
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea311caf979e7345908d4e6e0c03a48
+      internalID: -427482148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 517
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ab50e5d6096744aa9e35138928a4c1
+      internalID: -958085015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 517
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19db1f11da85d42954ac72f60fef6a
+      internalID: 1860413030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 517
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a70390bfe2f6d94c83d75ca27ee4650
+      internalID: 485234865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 518
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e0b49b98df4843ac249eb710569fb
+      internalID: 291596036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 519
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e18052f33e23044f986fa684649d0b1
+      internalID: 1798319818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 357
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf438f409d1f5240b4016250d508ab6
+      internalID: -1818153665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 363
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a992384e9fe3bd041ae5d4ed1aa5b992
+      internalID: -230126569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 363
+        width: 121
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39aa08bcf387914bbeadf7e7a653c48
+      internalID: 1513652607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 361
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7bfbcc817e3b945ab6a75ed819af36
+      internalID: -1097983515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 362
+        width: 121
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee085031daac734469758967eebd6175
+      internalID: 356283963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_17
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 363
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8001eb382e6ec75428d70164c1ad4af5
+      internalID: 810134940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_18
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 361
+        width: 143
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ed145a3991c84582c468ab50c67f2
+      internalID: -1442729874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_19
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 331
+        width: 164
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20a1f86cf01210499bbc372b4b734e1
+      internalID: 1437455945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 188
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c3a12f05c505c41968ba66156f7fc9
+      internalID: 1417788180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 192
+        width: 97
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a928b9bb45594692b7b08e4991053
+      internalID: 416854426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 191
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80095474ac6725a4baa018282b58e234
+      internalID: -886894993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 191
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b2a20b8fb18c478d3344c5f9093a1
+      internalID: 1662421644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_24
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 190
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcd6fc2e2f3ec6499b08c4534b89b6c
+      internalID: -360034431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_25
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 177
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fab20542397644d9a0b4aed7ed088b
+      internalID: 470883596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_26
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 177
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbb3f396dc26e3449f9adb5649b033d
+      internalID: -1681762350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_27
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 171
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d7e488ac563041a251b572064026f
+      internalID: -1677546251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df57a79d3bfe1cb42a7ee6512f9ec12d
+      internalID: -1416204366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 18
+        width: 116
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f6c175d1f06114fbb5a314ba43ccb2
+      internalID: 698865324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 23
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb753fc859fbd44e9f07915f05cf0a1
+      internalID: 1969482994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_31
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 40
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9927cedecf2c4699c4458e4ace2ae
+      internalID: 4627846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_32
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 32
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6345e747659df42826b755d889ac7c
+      internalID: -451418141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_33
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 33
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5063fafaab6f4c148ba6b4258975cb85
+      internalID: 183396931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_34
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 33
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18748fa40dee7c4488a897a5fd331024
+      internalID: -1789259998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Atlas(1)_35
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 54
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79396ce3d66b434aa9469dbb8e8664e
+      internalID: 571802243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jefe_Atlas(1)_9: 485234865
+      Jefe_Atlas(1)_13: -230126569
+      Jefe_Atlas(1)_23: 1662421644
+      Jefe_Atlas(1)_12: -1818153665
+      Jefe_Atlas(1)_6: -427482148
+      Jefe_Atlas(1)_8: 1860413030
+      Jefe_Atlas(1)_18: -1442729874
+      Jefe_Atlas(1)_29: 698865324
+      Jefe_Atlas(1)_33: 183396931
+      Jefe_Atlas(1)_0: -669725107
+      Jefe_Atlas(1)_35: 571802243
+      Jefe_Atlas(1)_4: 1748087654
+      Jefe_Atlas(1)_5: 393917678
+      Jefe_Atlas(1)_22: -886894993
+      Jefe_Atlas(1)_26: -1681762350
+      Jefe_Atlas(1)_2: -242631030
+      Jefe_Atlas(1)_11: 1798319818
+      Jefe_Atlas(1)_10: 291596036
+      Jefe_Atlas(1)_30: 1969482994
+      Jefe_Atlas(1)_28: -1416204366
+      Jefe_Atlas(1)_14: 1513652607
+      Jefe_Atlas(1)_1: 805977197
+      Jefe_Atlas(1)_16: 356283963
+      Jefe_Atlas(1)_24: -360034431
+      Jefe_Atlas(1)_19: 1437455945
+      Jefe_Atlas(1)_25: 470883596
+      Jefe_Atlas(1)_27: -1677546251
+      Jefe_Atlas(1)_7: -958085015
+      Jefe_Atlas(1)_31: 4627846
+      Jefe_Atlas(1)_15: -1097983515
+      Jefe_Atlas(1)_17: 810134940
+      Jefe_Atlas(1)_3: 1069375475
+      Jefe_Atlas(1)_20: 1417788180
+      Jefe_Atlas(1)_32: -451418141
+      Jefe_Atlas(1)_21: 416854426
+      Jefe_Atlas(1)_34: -1789259998
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
